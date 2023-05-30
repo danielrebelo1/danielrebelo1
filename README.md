@@ -3,17 +3,6 @@
 <!--- Brief description ---> 
 - Bsc in Informatics and Computing Engineering (year 2) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). <br/>
 
-#### :envelope: Contacts
-
-<!--- Github and mail:to --->
-<a href="https://www.linkedin.com/in/carlosdanielrebelo/">
-  <img align="center" alt="java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
-</a>
-<a href="mailto:daniel.rebelo2003@gmail.com">
-  <img align="center" alt="java" height="60" width="90" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI"/>
-</a>
-
-
 
 #### :wrench: Languages and tools 
 
@@ -50,3 +39,13 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielrebelo1&layout=compact&theme=tokyonight&hide=Makefile,Cmake)](https://github.com/anuraghazra/github-readme-stats)
  
 <br/>
+
+#### :envelope: Contacts
+
+<!--- Github and mail:to --->
+<a href="https://www.linkedin.com/in/carlosdanielrebelo/">
+  <img align="center" alt="java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg">
+</a>
+<a href="mailto:daniel.rebelo2003@gmail.com">
+  <img align="center" alt="java" height="60" width="90" src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI"/>
+</a>

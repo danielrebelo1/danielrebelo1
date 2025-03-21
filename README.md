@@ -1,7 +1,8 @@
 ### Hi there, I'm Daniel Rebelo! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--- Brief description ---> 
-- Bsc in Informatics and Computing Engineering (year 3) [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). <br/>
+- Msc in Services and Engineering Management [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
+- Bsc in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial). <br/>
 
 
 #### :wrench: Languages and tools 
